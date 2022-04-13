@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmaWenlock
-- 👀 I’m interested in ... gaining a full understanding and working knowledge of what it means to be a data analyst.
-- 🌱 I’m currently learning ... Python and SQL.
+- 👀 I’m interested in ... gaining a full understanding and working knowledge of what it means to be a data analyst and UI/UX Designer.
+- 🌱 I’m currently learning ... SQL, Python and visual elements of user interface design.
 - 💞️ I’m looking to collaborate on ... ANYTHING!! :D
 - 📫 How to reach me ... erwenlock@gmail.com is my best email.
 
